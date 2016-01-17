@@ -25,3 +25,17 @@ LDA是如何实现的呢？
 3  通过如下步骤生成第i个term w_i:
  > 选择Topic
   > 选择词语
+
+### Sim
++ Device(s)设备
+  - 设备标示：ICCID, MSISDN, IMSI;
+  - SIM状态
+    - deactivated停用
+    - activated激活
+    - retired
+    - activation ready待激活
+    - inventory
+  - In Session
+ - Month to Date Usage(MB)
+ - Usage Limit Reached 
+ - Rate Plan
